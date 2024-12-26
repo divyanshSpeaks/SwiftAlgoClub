@@ -2,7 +2,7 @@
 //  RichestCustomerWealth_2024_12_21.swift
 //  SwiftAlgoClub
 //
-//  Created by Divyansh Bhardwaj on 26/12/24.
+//  Created by Divyansh Bhardwaj on 21/12/24.
 //
 
 //Problem Description:
