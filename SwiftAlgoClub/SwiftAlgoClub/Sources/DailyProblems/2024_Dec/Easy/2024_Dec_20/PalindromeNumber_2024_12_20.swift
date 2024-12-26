@@ -5,7 +5,12 @@
 //  Created by Divyansh Bhardwaj on 20/12/24.
 //
 
-class PalindromeNumber_2024_12_20 {
+//Problem Description:
+//Given an integer x, return true if x is a palindrome, and false otherwise.
+
+//https://leetcode.com/problems/palindrome-number/description/
+                                    
+struct PalindromeNumber_2024_12_20 {
     func isPalindrome(_ x: Int) -> Bool {
         return x < 0 ? false : reverseNumber(x) == x
     }
