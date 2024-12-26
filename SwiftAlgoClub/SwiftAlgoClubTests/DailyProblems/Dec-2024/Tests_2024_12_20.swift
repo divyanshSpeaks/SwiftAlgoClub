@@ -56,6 +56,4 @@ final class Tests_2024_12_20: XCTestCase {
         XCTAssertEqual(solution.finalValueAfterOperations(["++X","++X","X++"]), 3, "Final value after performing mentioned operations is valid")
         XCTAssertNotEqual(solution.finalValueAfterOperations(["X++","++X","--X","X--"]), 2, "Final value after performing mentioned operations is invalid")
     }
-    
-    
 }
