@@ -391,7 +391,6 @@
 				CODE_SIGN_ENTITLEMENTS = SwiftAlgoClub/SwiftAlgoClub.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftAlgoClub/Preview Content\"";
 				DEVELOPMENT_TEAM = 8NNVTH75YW;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -430,7 +429,6 @@
 				CODE_SIGN_ENTITLEMENTS = SwiftAlgoClub/SwiftAlgoClub.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftAlgoClub/Preview Content\"";
 				DEVELOPMENT_TEAM = 8NNVTH75YW;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;

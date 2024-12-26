@@ -12,6 +12,7 @@ final class Tests_2024_12_20: XCTestCase {
     
     func testTwoSum_2024_12_20() {
         // Test cases for Two sum
+        
         let solution = TwoSum_2024_12_20()
         XCTAssertEqual(solution.twoSum([2, 7, 11, 15], 9).sorted(), [0, 1], "Expected indices [0, 1] for input [2, 7, 11, 15] with target 9")
         XCTAssertEqual(solution.twoSum([3, 2, 4], 6).sorted(), [1, 2], "Expected indices [1, 2] for input [3, 2, 4] with target 6")
@@ -26,7 +27,6 @@ final class Tests_2024_12_20: XCTestCase {
         XCTAssertTrue(solution.isPalindrome(121), "121 should be a palindrome")
         XCTAssertTrue(solution.isPalindrome(5), "5 should be a palindrome")
         XCTAssertTrue(solution.isPalindrome(12321), "12321 should be a palindrome")
-        
         XCTAssertFalse(solution.isPalindrome(-121), "-121 should not be a palindrome")
         XCTAssertFalse(solution.isPalindrome(12331), "12331 should not be a palindrome")
     }

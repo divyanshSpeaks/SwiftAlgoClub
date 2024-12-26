@@ -4,8 +4,15 @@
 //
 //  Created by Divyansh Bhardwaj on 20/12/24.
 //
+ 
+//Problem Description:
+//Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+//You may assume that each input would have exactly one solution, and you may not use the same element twice.
+//You can return the answer in any order.
 
-class TwoSum_2024_12_20 {
+// https://leetcode.com/problems/two-sum/description/
+
+struct TwoSum_2024_12_20 {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         
         var numDict: [Int: Int] = [:]
